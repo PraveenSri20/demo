@@ -17,3 +17,4 @@ class SquareAreaDemo {
        System.out.println("Area of Square is: "+area);
    }
 }
+
